@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/csmajs/gcost003/lab3/lab-03---composite-pattern-jtrieu48-gcost003/base.hpp
+string
+-
+
+/home/csmajs/gcost003/lab3/lab-03---composite-pattern-jtrieu48-gcost003/main.cpp
+iostream
+-
+base.hpp
+/home/csmajs/gcost003/lab3/lab-03---composite-pattern-jtrieu48-gcost003/base.hpp
+op.hpp
+/home/csmajs/gcost003/lab3/lab-03---composite-pattern-jtrieu48-gcost003/op.hpp
+mult.hpp
+/home/csmajs/gcost003/lab3/lab-03---composite-pattern-jtrieu48-gcost003/mult.hpp
+add.hpp
+/home/csmajs/gcost003/lab3/lab-03---composite-pattern-jtrieu48-gcost003/add.hpp
+minus.hpp
+/home/csmajs/gcost003/lab3/lab-03---composite-pattern-jtrieu48-gcost003/minus.hpp
+
+/home/csmajs/gcost003/lab3/lab-03---composite-pattern-jtrieu48-gcost003/mult.hpp
+base.hpp
+/home/csmajs/gcost003/lab3/lab-03---composite-pattern-jtrieu48-gcost003/base.hpp
+string
+-
+
+/home/csmajs/gcost003/lab3/lab-03---composite-pattern-jtrieu48-gcost003/op.hpp
+base.hpp
+/home/csmajs/gcost003/lab3/lab-03---composite-pattern-jtrieu48-gcost003/base.hpp
+string
+-
+
