@@ -1,6 +1,6 @@
 # Composite-Pattern
 
-Software Construction and Unit Testing
+Software Construction & Unit Testing
 
 ## Description
 
